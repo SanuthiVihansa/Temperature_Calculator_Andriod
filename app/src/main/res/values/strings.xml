@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="edt_Getvalue">Enter the temperature</string>
+    <string name="rb_Celcius">Celcius</string>
+    <string name="rb_Fahrenhite">Fahrenhite</string>
+    <string name="btn_Calc">Calculate</string>
+
+</resources>
